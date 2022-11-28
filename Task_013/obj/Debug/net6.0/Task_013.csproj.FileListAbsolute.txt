@@ -1,0 +1,15 @@
+C:\Users\Sharov\Desktop\SEM_02_DZ\Task_013\bin\Debug\net6.0\Task_013.exe
+C:\Users\Sharov\Desktop\SEM_02_DZ\Task_013\bin\Debug\net6.0\Task_013.deps.json
+C:\Users\Sharov\Desktop\SEM_02_DZ\Task_013\bin\Debug\net6.0\Task_013.runtimeconfig.json
+C:\Users\Sharov\Desktop\SEM_02_DZ\Task_013\bin\Debug\net6.0\Task_013.dll
+C:\Users\Sharov\Desktop\SEM_02_DZ\Task_013\bin\Debug\net6.0\Task_013.pdb
+C:\Users\Sharov\Desktop\SEM_02_DZ\Task_013\obj\Debug\net6.0\Task_013.csproj.AssemblyReference.cache
+C:\Users\Sharov\Desktop\SEM_02_DZ\Task_013\obj\Debug\net6.0\Task_013.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharov\Desktop\SEM_02_DZ\Task_013\obj\Debug\net6.0\Task_013.AssemblyInfoInputs.cache
+C:\Users\Sharov\Desktop\SEM_02_DZ\Task_013\obj\Debug\net6.0\Task_013.AssemblyInfo.cs
+C:\Users\Sharov\Desktop\SEM_02_DZ\Task_013\obj\Debug\net6.0\Task_013.csproj.CoreCompileInputs.cache
+C:\Users\Sharov\Desktop\SEM_02_DZ\Task_013\obj\Debug\net6.0\Task_013.dll
+C:\Users\Sharov\Desktop\SEM_02_DZ\Task_013\obj\Debug\net6.0\refint\Task_013.dll
+C:\Users\Sharov\Desktop\SEM_02_DZ\Task_013\obj\Debug\net6.0\Task_013.pdb
+C:\Users\Sharov\Desktop\SEM_02_DZ\Task_013\obj\Debug\net6.0\Task_013.genruntimeconfig.cache
+C:\Users\Sharov\Desktop\SEM_02_DZ\Task_013\obj\Debug\net6.0\ref\Task_013.dll
