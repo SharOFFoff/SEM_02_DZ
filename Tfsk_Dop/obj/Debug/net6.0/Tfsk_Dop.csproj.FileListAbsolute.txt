@@ -1,0 +1,15 @@
+C:\Users\Sharov\Desktop\SEM_02_DZ\Tfsk_Dop\bin\Debug\net6.0\Tfsk_Dop.exe
+C:\Users\Sharov\Desktop\SEM_02_DZ\Tfsk_Dop\bin\Debug\net6.0\Tfsk_Dop.deps.json
+C:\Users\Sharov\Desktop\SEM_02_DZ\Tfsk_Dop\bin\Debug\net6.0\Tfsk_Dop.runtimeconfig.json
+C:\Users\Sharov\Desktop\SEM_02_DZ\Tfsk_Dop\bin\Debug\net6.0\Tfsk_Dop.dll
+C:\Users\Sharov\Desktop\SEM_02_DZ\Tfsk_Dop\bin\Debug\net6.0\Tfsk_Dop.pdb
+C:\Users\Sharov\Desktop\SEM_02_DZ\Tfsk_Dop\obj\Debug\net6.0\Tfsk_Dop.csproj.AssemblyReference.cache
+C:\Users\Sharov\Desktop\SEM_02_DZ\Tfsk_Dop\obj\Debug\net6.0\Tfsk_Dop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharov\Desktop\SEM_02_DZ\Tfsk_Dop\obj\Debug\net6.0\Tfsk_Dop.AssemblyInfoInputs.cache
+C:\Users\Sharov\Desktop\SEM_02_DZ\Tfsk_Dop\obj\Debug\net6.0\Tfsk_Dop.AssemblyInfo.cs
+C:\Users\Sharov\Desktop\SEM_02_DZ\Tfsk_Dop\obj\Debug\net6.0\Tfsk_Dop.csproj.CoreCompileInputs.cache
+C:\Users\Sharov\Desktop\SEM_02_DZ\Tfsk_Dop\obj\Debug\net6.0\Tfsk_Dop.dll
+C:\Users\Sharov\Desktop\SEM_02_DZ\Tfsk_Dop\obj\Debug\net6.0\refint\Tfsk_Dop.dll
+C:\Users\Sharov\Desktop\SEM_02_DZ\Tfsk_Dop\obj\Debug\net6.0\Tfsk_Dop.pdb
+C:\Users\Sharov\Desktop\SEM_02_DZ\Tfsk_Dop\obj\Debug\net6.0\Tfsk_Dop.genruntimeconfig.cache
+C:\Users\Sharov\Desktop\SEM_02_DZ\Tfsk_Dop\obj\Debug\net6.0\ref\Tfsk_Dop.dll
